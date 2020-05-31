@@ -19,6 +19,6 @@ public class FirstDuplicate {
             }
         }
 
-        return-1;
+        return -1;
     }
 }
